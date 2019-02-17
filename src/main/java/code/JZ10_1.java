@@ -1,6 +1,6 @@
 package code;
 
-public class JZ10 {
+public class JZ10_1 {
 
     /**
      * 递归
@@ -57,9 +57,9 @@ public class JZ10 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new JZ10().Fibonacci1(10));
-        System.out.println(new JZ10().Fibonacci2(10));
-        System.out.println(new JZ10().Fibonacci3(10));
+        System.out.println(new JZ10_1().Fibonacci1(10));
+        System.out.println(new JZ10_1().Fibonacci2(10));
+        System.out.println(new JZ10_1().Fibonacci3(10));
     }
 
 }
