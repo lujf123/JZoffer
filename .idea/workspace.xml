@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cd22c6-8809-4a02-9a57-f3fed27ca453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountDownLatch/ApplicationStartupUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountDownLatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ10_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/other/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/redis/ScanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code/JZ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/JZ10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/JZ12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/JZ12.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,19 +21,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ11.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ12.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="239">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,6 +103,9 @@
         <option value="$PROJECT_DIR$/src/main/java/code/JZ10_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ11.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ15.java" />
       </list>
     </option>
   </component>
@@ -126,7 +127,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,12 +164,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550416121533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550490428738" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -194,15 +195,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JZ11">
+  <component name="RunManager" selected="Application.JZ15">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JZ10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.JZ10_2" />
+    <configuration name="JZ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.JZ11" />
       <module name="JZoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,8 +216,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JZ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.JZ11" />
+    <configuration name="JZ13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.JZ13" />
+      <module name="JZoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZ15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.JZ15" />
       <module name="JZoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -257,20 +272,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Test" />
-      <module name="JZoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -302,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ15" />
+        <item itemvalue="Application.JZ13" />
         <item itemvalue="Application.JZ11" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.JZ10_2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +335,8 @@
       <workItem from="1549941643420" duration="1426000" />
       <workItem from="1550127541939" duration="930000" />
       <workItem from="1550281596821" duration="4452000" />
-      <workItem from="1550367270888" duration="8169000" />
+      <workItem from="1550367270888" duration="8598000" />
+      <workItem from="1550474966540" duration="8586000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1548754340524</created>
@@ -368,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59722000" />
+    <option name="totallyTimeSpent" value="68737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -383,15 +385,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951653" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969345" visible="true" weight="0.32673267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969345" weight="0.32673267" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3272543" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946752" weight="0.32673267" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -732,48 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/DatabaseHealthChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/NetworkHealthChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/BaseHealthChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/DatabaseHealthChecker.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/NetworkHealthChecker.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/BaseHealthChecker.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/CountDownLatch/verifier/BaseHealthChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-250">
@@ -835,15 +799,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
+        <state relative-caret-position="451">
           <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="166">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
