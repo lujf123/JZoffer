@@ -23,11 +23,19 @@ public class SynchronizedExample {
         }
     }
 
+    public synchronized void func3() {
+        synchronized (this) {
+            for (int i = 0; i < 10; i++) {
+                System.out.print(i + " ");
+            }
+        }
+    }
+
     public static void main(String[] args) {
         SynchronizedExample e1 = new SynchronizedExample();
         SynchronizedExample e2 = new SynchronizedExample();
         ExecutorService executorService = Executors.newCachedThreadPool();
-        executorService.execute(() -> e1.func1());
-        executorService.execute(() -> e2.func1());
+        executorService.execute(() -> e1.func3());
+        executorService.execute(() -> e2.func3());
     }
 }
