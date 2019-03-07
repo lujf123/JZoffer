@@ -2,16 +2,21 @@ package huawei;
 
 import java.util.*;
 
-/**
- * Author: 王俊超
- * Date: 2016-01-05 14:49
- * All Rights Reserved !!!
- */
 public class Test {
+
+    public int id;
+
     public static void main(String[] args) {
-        char c = 'z';
-        System.out.println(c == 'z');
+        HashMap<Integer, String> treeMap = new HashMap<>();
+        treeMap.put(3, "c");
+        treeMap.put(1, "a");
+        treeMap.put(2, "b");
+        Iterator iterator = treeMap.entrySet().iterator();
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
     }
+
 
 
 }
