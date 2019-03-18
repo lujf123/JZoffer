@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cd22c6-8809-4a02-9a57-f3fed27ca453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/DP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/DP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei/HW035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/huawei/HW036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/pdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/pdd01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pinduoduo/pdd02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ53_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ53_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/huawei/HW034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/huawei/HW034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/DP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/DP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/DP2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/DP2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,19 +36,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/DP1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ41_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ53_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/DP2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ53_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="2">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -118,9 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/huawei/HW011.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/HW012.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/HW013.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/HW014.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/HW015.java" />
         <option value="$PROJECT_DIR$/src/main/java/concurrent/AtomicSynchronizedExample.java" />
@@ -169,6 +165,9 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithm/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/DP1.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/DP2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ53.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ53_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ53_2.java" />
       </list>
     </option>
   </component>
@@ -190,10 +189,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="730" />
+    <option name="height" value="752" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -234,14 +233,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JZoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JZoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -253,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552566178066" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552909184773" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -278,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DP2">
+  <component name="RunManager" selected="Application.JZ53_2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -327,8 +318,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.HW02" />
+    <configuration name="HW03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.HW03" />
       <module name="JZoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -341,13 +332,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.HW03" />
+    <configuration name="JZ53_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.JZ53_2" />
       <module name="JZoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ53_2" />
         <item itemvalue="Application.DP2" />
         <item itemvalue="Application.DP1" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.HW03" />
-        <item itemvalue="Application.HW02" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +436,11 @@
       <workItem from="1552180498425" duration="8186000" />
       <workItem from="1552265473701" duration="4293000" />
       <workItem from="1552439249498" duration="5278000" />
-      <workItem from="1552546695734" duration="7784000" />
+      <workItem from="1552546695734" duration="8177000" />
+      <workItem from="1552611393127" duration="2848000" />
+      <workItem from="1552785622166" duration="569000" />
+      <workItem from="1552877850228" duration="23000" />
+      <workItem from="1552899581889" duration="3236000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1548754340524</created>
@@ -486,7 +481,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250616000" />
+    <option name="totallyTimeSpent" value="257685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,8 +493,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4947183" weight="0.31825525" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.20436187" />
@@ -510,7 +504,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5052817" side_tool="true" weight="0.24702774" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49969345" visible="true" weight="0.23739837" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969345" weight="0.23620933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34229138" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +512,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.92503536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.9222065" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3272543" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946752" weight="0.32305196" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -626,39 +620,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/clone/CloneConstructorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-          <folding>
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/clone/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/clone/InitialOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/clone/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1047,13 +1008,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW01.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -1074,23 +1029,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW02.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/HW03.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ10_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1109,17 +1049,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/DP1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/DP2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/DP1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ41_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ53_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ53_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
