@@ -16,7 +16,6 @@ public class MyRunnable implements Callable<Integer> {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
 
-
         ExecutorService executorService = Executors.newCachedThreadPool();
         FutureTask<Integer> ft = new FutureTask<>(new MyRunnable());
         executorService.execute(ft);

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cd22c6-8809-4a02-9a57-f3fed27ca453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ55_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ55_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concurrent/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrent/MyRunnable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,15 +34,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ54.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ55_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ55_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -100,9 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/huawei/HW015.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrent/AtomicSynchronizedExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/HW016.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/HW017.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/HW018.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/HW019.java" />
@@ -151,6 +155,9 @@
         <option value="$PROJECT_DIR$/src/main/java/code/JZ53_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ53_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ54.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concurrent/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ55_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ55_2.java" />
       </list>
     </option>
   </component>
@@ -173,10 +180,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1715" />
-    <option name="y" value="-252" />
-    <option name="width" value="1392" />
-    <option name="height" value="753" />
+    <option name="x" value="1307" />
+    <option name="y" value="-238" />
+    <option name="width" value="1481" />
+    <option name="height" value="781" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -228,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553000967860" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553085481567" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -425,7 +432,8 @@
       <workItem from="1552785622166" duration="569000" />
       <workItem from="1552877850228" duration="23000" />
       <workItem from="1552899581889" duration="3479000" />
-      <workItem from="1552956798765" duration="2248000" />
+      <workItem from="1552956798765" duration="2515000" />
+      <workItem from="1553043897394" duration="3963000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1548754340524</created>
@@ -466,7 +474,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260176000" />
+    <option name="totallyTimeSpent" value="264406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,10 +486,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1715" y="-252" width="1392" height="753" extended-state="0" />
+    <frame x="1307" y="-238" width="1481" height="781" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4947183" weight="0.31777778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4947183" visible="true" weight="0.27310634" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.20436187" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,7 +506,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="1.0" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6682927" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3272543" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946752" weight="0.32305196" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -606,103 +614,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/clone/ShallowCloneExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.PriorityQueue">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.PriorityQueue</OriginalElement>
-          <nodes>
-            <node x="189.0" y="642.0">java.util.AbstractCollection</node>
-            <node x="122.75" y="1262.0">java.util.PriorityQueue</node>
-            <node x="57.25" y="145.0">java.util.Collection</node>
-            <node x="57.25" y="1073.0">java.util.AbstractQueue</node>
-            <node x="0.0" y="752.0">java.util.Queue</node>
-            <node x="69.75" y="0.0">java.lang.Iterable</node>
-            <node x="395.25" y="1128.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.PriorityQueue" target="java.util.AbstractQueue">
-              <point x="-106.0" y="-344.5" />
-              <point x="228.75" y="1237.0" />
-              <point x="216.25" y="1237.0" />
-              <point x="0.0" y="69.5" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.AbstractCollection">
-              <point x="79.5" y="-69.5" />
-              <point x="295.75" y="1048.0" />
-              <point x="348.0" y="1048.0" />
-              <point x="0.0" y="190.5" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-223.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="java.util.PriorityQueue" target="java.io.Serializable">
-              <point x="106.0" y="-344.5" />
-              <point x="440.75" y="1237.0" />
-              <point x="453.25" y="1237.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-80.5" />
-              <point x="84.5" y="617.0" />
-              <point x="136.75" y="617.0" />
-              <point x="-79.5" y="223.5" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-190.5" />
-              <point x="348.0" y="617.0" />
-              <point x="295.75" y="617.0" />
-              <point x="79.5" y="223.5" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.Queue">
-              <point x="-79.5" y="-69.5" />
-              <point x="136.75" y="1048.0" />
-              <point x="84.5" y="1048.0" />
-              <point x="0.0" y="80.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="14.0" y="1561.0" />
-          <SelectedNodes>
-            <node>java.util.PriorityQueue</node>
-            <node>java.io.Serializable</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3016">
@@ -1057,14 +968,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrent/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrent/LockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ54.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ55_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ55_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
         </state>
       </provider>
     </entry>
