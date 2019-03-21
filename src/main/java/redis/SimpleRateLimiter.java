@@ -4,6 +4,8 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.Pipeline;
 import redis.clients.jedis.Response;
 
+import java.io.IOException;
+
 public class SimpleRateLimiter {
     private Jedis jedis;
 
@@ -11,7 +13,7 @@ public class SimpleRateLimiter {
         this.jedis = jedis;
     }
 
-    public boolean isActionAllowed(String userId, String actionKey, int period, int maxCount) {
+    public boolean isActionAllowed(String userId, String actionKey, int period, int maxCount) throws IOException {
         String key = String.format("hist:%s:%s", userId, actionKey);
         long nowTs = System.currentTimeMillis();
         Pipeline pipe = jedis.pipelined();
@@ -31,7 +33,7 @@ public class SimpleRateLimiter {
         return count.get() <= maxCount;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Jedis jedis = new Jedis();
         SimpleRateLimiter limiter = new SimpleRateLimiter(jedis);
         for (int i=0; i<20; i++) {
