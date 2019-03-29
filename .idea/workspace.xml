@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cd22c6-8809-4a02-9a57-f3fed27ca453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/JZ65.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,22 +34,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ62.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ64.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-              <folding>
-                <element signature="e#1838#1839#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ63.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="323">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/other/DeepCloneExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/clone/DeepCloneExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/clone/CloneConstructorExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/clone/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/clone/InitialOrderTest.java" />
@@ -160,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/main/java/code/JZ61.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ62.java" />
         <option value="$PROJECT_DIR$/src/main/java/code/JZ63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/code/JZ65.java" />
       </list>
     </option>
   </component>
@@ -193,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,13 +233,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553567215445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553842878847" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -262,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JZ63">
+  <component name="RunManager" selected="Application.JZ65">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -325,13 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRedisLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="redis.MyRedisLock" />
+    <configuration name="JZ65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.JZ65" />
       <module name="JZoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="redis.*" />
+          <option name="PATTERN" value="code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ65" />
         <item itemvalue="Application.JZ63" />
         <item itemvalue="Application.JZ62" />
         <item itemvalue="Application.JZ57_2" />
         <item itemvalue="Application.JZ56_2" />
-        <item itemvalue="Application.MyRedisLock" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +442,9 @@
       <workItem from="1553153933485" duration="7073000" />
       <workItem from="1553236042468" duration="7782000" />
       <workItem from="1553392056021" duration="4200000" />
-      <workItem from="1553561477637" duration="4988000" />
+      <workItem from="1553561477637" duration="5447000" />
+      <workItem from="1553580016676" duration="809000" />
+      <workItem from="1553840143184" duration="2104000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1548754340524</created>
@@ -482,7 +485,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295304000" />
+    <option name="totallyTimeSpent" value="298676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,7 +500,7 @@
     <frame x="1324" y="-257" width="1686" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4947183" visible="true" weight="0.25425792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4947183" visible="true" weight="0.26034063" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.20396419" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +509,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5052817" side_tool="true" weight="0.24702774" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49969345" visible="true" weight="0.21014492" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49969345" weight="0.21014492" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34178743" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,7 +517,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.461642" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.46135265" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3272543" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946752" weight="0.3224543" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -628,23 +631,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/HW033.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="12" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/HW035.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/HW032.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -989,20 +975,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ62.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="743">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
+            <element signature="e#1773#1774#0" expanded="true" />
             <element signature="e#1838#1839#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ63.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ64.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="38">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/code/JZ65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
